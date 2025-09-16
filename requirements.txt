@@ -1,0 +1,9 @@
+
+runpod
+torch
+transformers>=4.42.0
+accelerate
+pillow
+requests
+safetensors
+sentencepiece
